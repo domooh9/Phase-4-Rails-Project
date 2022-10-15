@@ -1,0 +1,57 @@
+
+.log{
+  background: #395B64;
+  color: white;
+  padding: 5em;
+  border-radius: 15px;
+  border: 1px solid;
+  border-color: black;
+  width: 300px;
+  max-width: 200px;
+  height: 300px;
+margin: 30px 150px 0 460px;
+}
+.inpt {
+  width: 250px;
+  height:38px;
+  margin: 30px 0px 0 -20px;
+  /* background: transparent; */
+  font-size: 16px;
+  outline: none;
+  border-radius: 7px;
+  border: 1.5px solid black;
+  background: black;
+  color: white;
+  font-family: inherit;
+  /* font-size: 130%;
+  width: calc(100% - 80%px); */
+ }
+ .btn {
+  background-color: black;
+  width: 250px;
+  height: 27px;
+  margin: 20px 9px 0 -20px;
+  border-radius: 5px;
+  border: 1px solid white;
+  font-size: 14px;
+  letter-spacing: 1px;
+  color: navajowhite;
+  pointer-events:visibleFill;
+ }
+ .fom{
+  margin-top: -60px;
+  
+ }
+ .create{
+  margin-left: 500px;
+}
+.sign-up-redirect-btn{
+  background-color: #395B64;
+  border-radius: 0%;
+  border: none;
+  font-size: 16px;
+  color: blue;
+}
+body{
+  background-color: #395B64;
+}
